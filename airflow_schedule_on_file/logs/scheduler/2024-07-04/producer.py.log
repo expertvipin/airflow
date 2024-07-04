@@ -1,0 +1,501 @@
+[2024-07-04T11:16:03.240+0530] {processor.py:161} INFO - Started process (PID=82449) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:16:03.241+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:16:03.244+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.243+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:16:03.259+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:16:03.396+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.396+0530] {override.py:1829} INFO - Created Permission View: can read on DAG:producer
+[2024-07-04T11:16:03.410+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.409+0530] {override.py:1829} INFO - Created Permission View: can delete on DAG:producer
+[2024-07-04T11:16:03.420+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.420+0530] {override.py:1829} INFO - Created Permission View: can edit on DAG:producer
+[2024-07-04T11:16:03.421+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.420+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:16:03.431+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.431+0530] {dag.py:3118} INFO - Creating ORM DAG for producer
+[2024-07-04T11:16:03.440+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:03.440+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-03 00:00:00+00:00, run_after=2024-07-04 00:00:00+00:00
+[2024-07-04T11:16:03.460+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.228 seconds
+[2024-07-04T11:16:34.217+0530] {processor.py:161} INFO - Started process (PID=82494) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:16:34.222+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:16:34.224+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:34.223+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:16:34.239+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:16:34.257+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:34.257+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:16:34.275+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:34.275+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:16:34.303+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.097 seconds
+[2024-07-04T11:17:04.506+0530] {processor.py:161} INFO - Started process (PID=82529) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:17:04.507+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:17:04.510+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:04.509+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:17:04.523+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:17:04.542+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:04.542+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:17:04.560+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:04.560+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:17:04.586+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.091 seconds
+[2024-07-04T11:17:34.705+0530] {processor.py:161} INFO - Started process (PID=82574) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:17:34.712+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:17:34.717+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:34.716+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:17:34.756+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:17:34.790+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:34.789+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:17:34.809+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:34.809+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:17:34.835+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.150 seconds
+[2024-07-04T11:18:04.989+0530] {processor.py:161} INFO - Started process (PID=82614) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:18:04.994+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:18:04.996+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:04.996+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:18:05.009+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:18:05.031+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:05.030+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:18:05.051+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:05.051+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:18:05.079+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.097 seconds
+[2024-07-04T11:18:35.368+0530] {processor.py:161} INFO - Started process (PID=82675) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:18:35.372+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:18:35.375+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:35.374+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:18:35.388+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:18:35.417+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:35.417+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:18:35.448+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:35.448+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:18:35.476+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.117 seconds
+[2024-07-04T11:19:07.426+0530] {processor.py:161} INFO - Started process (PID=82710) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:07.427+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:19:07.429+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:07.428+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:07.440+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:07.462+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:07.461+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:07.485+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:07.485+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:19:07.517+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.096 seconds
+[2024-07-04T11:19:37.916+0530] {processor.py:161} INFO - Started process (PID=82757) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:37.917+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:19:37.919+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:37.919+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:37.935+0530] {processor.py:840} INFO - DAG(s) 'producer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:38.101+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:38.101+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:38.123+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:38.122+0530] {dag.py:3954} INFO - Setting next_dagrun for producer to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:19:38.144+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.236 seconds
+[2024-07-04T11:19:41.553+0530] {processor.py:161} INFO - Started process (PID=82764) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:41.560+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:19:41.567+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.565+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:41.615+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:19:41.755+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.754+0530] {override.py:1829} INFO - Created Permission View: can read on DAG:producer_v1
+[2024-07-04T11:19:41.770+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.770+0530] {override.py:1829} INFO - Created Permission View: can delete on DAG:producer_v1
+[2024-07-04T11:19:41.783+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.782+0530] {override.py:1829} INFO - Created Permission View: can edit on DAG:producer_v1
+[2024-07-04T11:19:41.783+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.783+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:41.798+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.798+0530] {dag.py:3118} INFO - Creating ORM DAG for producer_v1
+[2024-07-04T11:19:41.810+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:41.809+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-02 00:00:00+00:00, run_after=2024-07-03 00:00:00+00:00
+[2024-07-04T11:19:41.831+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.301 seconds
+[2024-07-04T11:20:12.486+0530] {processor.py:161} INFO - Started process (PID=82817) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:20:12.487+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:20:12.489+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:12.489+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:20:12.503+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:20:12.534+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:12.534+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:20:12.559+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:12.559+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:20:12.584+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.108 seconds
+[2024-07-04T11:20:42.974+0530] {processor.py:161} INFO - Started process (PID=82860) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:20:42.979+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:20:42.982+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:42.981+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:20:42.996+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:20:43.019+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:43.019+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:20:43.042+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:43.041+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:20:43.070+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.124 seconds
+[2024-07-04T11:21:13.712+0530] {processor.py:161} INFO - Started process (PID=82910) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:21:13.714+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:21:13.716+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:13.715+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:21:13.732+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:21:13.763+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:13.763+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:21:13.787+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:13.786+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:21:13.824+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.132 seconds
+[2024-07-04T11:21:44.103+0530] {processor.py:161} INFO - Started process (PID=82944) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:21:44.108+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:21:44.109+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:44.109+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:21:44.122+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:21:44.143+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:44.143+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:21:44.165+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:44.165+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:21:44.196+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.104 seconds
+[2024-07-04T11:22:14.659+0530] {processor.py:161} INFO - Started process (PID=82985) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:14.660+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:22:14.661+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:14.660+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:14.673+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:14.698+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:14.698+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:22:14.722+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:14.721+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:22:14.772+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.122 seconds
+[2024-07-04T11:22:45.271+0530] {processor.py:161} INFO - Started process (PID=83039) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:45.273+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:22:45.275+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:45.274+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:45.291+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:45.322+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:45.321+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:22:45.357+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:45.357+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:22:45.410+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.147 seconds
+[2024-07-04T11:22:56.103+0530] {processor.py:161} INFO - Started process (PID=83182) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:56.105+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:22:56.108+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:56.107+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:56.141+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:22:56.168+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:56.168+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:22:56.186+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:56.186+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:22:56.212+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.133 seconds
+[2024-07-04T11:23:03.396+0530] {processor.py:161} INFO - Started process (PID=83197) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:03.400+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:03.402+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:03.401+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:03.417+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:03.416+0530] {dagbag.py:355} ERROR - Failed to import: /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+Traceback (most recent call last):
+  File "/home/ongraph/Desktop/airflow/airflow_schedule_on_file/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py", line 19, in <module>
+    @task(outlets)
+NameError: name 'outlets' is not defined
+[2024-07-04T11:23:03.418+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:03.435+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.063 seconds
+[2024-07-04T11:23:07.368+0530] {processor.py:161} INFO - Started process (PID=83209) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:07.369+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:07.371+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:07.370+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:07.375+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:07.374+0530] {dagbag.py:355} ERROR - Failed to import: /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+Traceback (most recent call last):
+  File "/home/ongraph/Desktop/airflow/airflow_schedule_on_file/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py", line 19
+    @task(outlets=)
+                  ^
+SyntaxError: invalid syntax
+[2024-07-04T11:23:07.375+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:07.403+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.045 seconds
+[2024-07-04T11:23:08.559+0530] {processor.py:161} INFO - Started process (PID=83210) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:08.560+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:08.562+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:08.562+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:08.584+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:08.616+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:08.615+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:08.650+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:08.650+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:23:08.692+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.150 seconds
+[2024-07-04T11:23:09.838+0530] {processor.py:161} INFO - Started process (PID=83212) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:09.841+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:09.845+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:09.843+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:09.866+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:09.986+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:09.986+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:10.076+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:10.075+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:23:10.105+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.288 seconds
+[2024-07-04T11:23:13.558+0530] {processor.py:161} INFO - Started process (PID=83219) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:13.559+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:13.560+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:13.560+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:13.576+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:13.588+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:13.587+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:13.617+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:13.616+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:23:13.654+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.104 seconds
+[2024-07-04T11:23:14.842+0530] {processor.py:161} INFO - Started process (PID=83228) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:14.845+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:14.848+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:14.847+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:14.873+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:14.872+0530] {dagbag.py:355} ERROR - Failed to import: /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+Traceback (most recent call last):
+  File "/home/ongraph/Desktop/airflow/airflow_schedule_on_file/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py", line 19, in <module>
+    @task(outlets=[my])
+NameError: name 'my' is not defined
+[2024-07-04T11:23:14.874+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:14.896+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.074 seconds
+[2024-07-04T11:23:17.059+0530] {processor.py:161} INFO - Started process (PID=83233) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:17.061+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:17.062+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:17.061+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:17.080+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:17.090+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:17.090+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:17.124+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:17.124+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:23:17.163+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.111 seconds
+[2024-07-04T11:23:19.695+0530] {processor.py:161} INFO - Started process (PID=83237) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:19.698+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:19.701+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:19.700+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:19.728+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:19.738+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:19.737+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:19.759+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:19.759+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:23:19.798+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.126 seconds
+[2024-07-04T11:23:50.493+0530] {processor.py:161} INFO - Started process (PID=83288) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:50.499+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:23:50.502+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:50.501+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:50.526+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:23:50.721+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:50.721+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:50.741+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:50.741+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:23:50.773+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.287 seconds
+[2024-07-04T11:24:21.352+0530] {processor.py:161} INFO - Started process (PID=83339) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:21.357+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:24:21.359+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:21.358+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:21.372+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:21.391+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:21.391+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:21.409+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:21.408+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:24:21.431+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.097 seconds
+[2024-07-04T11:24:41.103+0530] {processor.py:161} INFO - Started process (PID=83377) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:41.106+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:24:41.107+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:41.107+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:41.128+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:41.161+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:41.160+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:41.192+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:41.192+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:24:41.232+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.145 seconds
+[2024-07-04T11:24:42.948+0530] {processor.py:161} INFO - Started process (PID=83386) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:42.949+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:24:42.950+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:42.949+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:42.970+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:43.006+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:43.006+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:43.029+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:43.029+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:24:43.078+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.141 seconds
+[2024-07-04T11:24:48.076+0530] {processor.py:161} INFO - Started process (PID=83391) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:48.077+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:24:48.082+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:48.082+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:48.098+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:48.134+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:48.134+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:48.168+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:48.168+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:24:48.221+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.154 seconds
+[2024-07-04T11:24:50.430+0530] {processor.py:161} INFO - Started process (PID=83400) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:50.432+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:24:50.436+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:50.435+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:50.463+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:50.503+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:50.503+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:50.524+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:50.524+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:24:50.555+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.140 seconds
+[2024-07-04T11:24:58.224+0530] {processor.py:161} INFO - Started process (PID=83410) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:58.225+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:24:58.226+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:58.226+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:58.245+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:24:58.279+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:58.279+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:58.312+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:58.312+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:24:58.366+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.151 seconds
+[2024-07-04T11:25:00.522+0530] {processor.py:161} INFO - Started process (PID=83421) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:00.524+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:25:00.525+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:00.525+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:00.546+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:00.579+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:00.579+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:00.613+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:00.613+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:25:00.684+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.171 seconds
+[2024-07-04T11:25:04.338+0530] {processor.py:161} INFO - Started process (PID=83437) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:04.339+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:25:04.340+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:04.340+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:04.353+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:04.373+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:04.373+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:04.390+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:04.390+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:25:04.428+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.099 seconds
+[2024-07-04T11:25:35.571+0530] {processor.py:161} INFO - Started process (PID=83484) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:35.575+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:25:35.576+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:35.576+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:35.586+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:25:35.605+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:35.605+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:35.624+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:35.624+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:25:35.665+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.101 seconds
+[2024-07-04T11:26:05.826+0530] {processor.py:161} INFO - Started process (PID=83565) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:26:05.828+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:26:05.830+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:05.829+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:26:05.843+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:26:05.862+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:05.862+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:26:05.879+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:05.879+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:26:05.995+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.185 seconds
+[2024-07-04T11:26:36.295+0530] {processor.py:161} INFO - Started process (PID=83650) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:26:36.296+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:26:36.298+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:36.297+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:26:36.308+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:26:36.329+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:36.328+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:26:36.351+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:36.351+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:26:36.466+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.176 seconds
+[2024-07-04T11:27:08.189+0530] {processor.py:161} INFO - Started process (PID=83708) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:27:08.196+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:27:08.199+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:08.198+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:27:08.232+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:27:08.269+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:08.269+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:08.361+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:08.361+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:27:08.394+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.226 seconds
+[2024-07-04T11:27:39.539+0530] {processor.py:161} INFO - Started process (PID=83761) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:27:39.540+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:27:39.543+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:39.542+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:27:39.560+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:27:39.597+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:39.597+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:39.706+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:39.706+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:27:39.736+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.214 seconds
+[2024-07-04T11:28:10.180+0530] {processor.py:161} INFO - Started process (PID=83806) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:28:10.186+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:28:10.188+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:10.187+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:28:10.200+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:28:10.226+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:10.226+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:28:10.348+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:10.347+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:28:10.399+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.231 seconds
+[2024-07-04T11:28:40.497+0530] {processor.py:161} INFO - Started process (PID=83846) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:28:40.503+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:28:40.505+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:40.504+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:28:40.532+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:28:40.661+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:40.661+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:28:40.680+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:40.679+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:28:40.707+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.224 seconds
+[2024-07-04T11:29:11.057+0530] {processor.py:161} INFO - Started process (PID=83880) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:29:11.063+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:29:11.064+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:11.064+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:29:11.079+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:29:11.194+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:11.193+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:29:11.213+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:11.213+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:29:11.246+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.202 seconds
+[2024-07-04T11:29:41.600+0530] {processor.py:161} INFO - Started process (PID=83927) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:29:41.607+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:29:41.611+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:41.610+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:29:41.759+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:29:41.776+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:41.776+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:29:41.795+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:41.795+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:29:41.830+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.248 seconds
+[2024-07-04T11:30:12.106+0530] {processor.py:161} INFO - Started process (PID=83961) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:30:12.108+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:30:12.110+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:12.109+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:30:12.123+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:30:12.143+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:12.143+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:30:12.161+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:12.161+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:30:12.196+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.103 seconds
+[2024-07-04T11:30:42.602+0530] {processor.py:161} INFO - Started process (PID=83998) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:30:42.607+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:30:42.608+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:42.608+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:30:42.620+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:30:42.639+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:42.639+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:30:42.658+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:42.657+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:30:42.688+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.104 seconds
+[2024-07-04T11:31:13.108+0530] {processor.py:161} INFO - Started process (PID=84040) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:31:13.113+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:31:13.115+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:13.114+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:31:13.132+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:31:13.154+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:13.153+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:31:13.173+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:13.172+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:31:13.199+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.102 seconds
+[2024-07-04T11:31:43.644+0530] {processor.py:161} INFO - Started process (PID=84080) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:31:43.646+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:31:43.649+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:43.648+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:31:43.668+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:31:43.696+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:43.696+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:31:43.718+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:43.718+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:31:43.771+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.159 seconds
+[2024-07-04T11:32:14.091+0530] {processor.py:161} INFO - Started process (PID=84121) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:32:14.096+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:32:14.097+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:14.096+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:32:14.108+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:32:14.128+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:14.128+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:32:14.147+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:14.147+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:32:14.189+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.111 seconds
+[2024-07-04T11:32:44.400+0530] {processor.py:161} INFO - Started process (PID=84161) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:32:44.401+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:32:44.403+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:44.403+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:32:44.422+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:32:44.458+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:44.457+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:32:44.502+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:44.502+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:32:44.554+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.172 seconds
+[2024-07-04T11:33:14.896+0530] {processor.py:161} INFO - Started process (PID=84206) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:33:14.904+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:33:14.909+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:14.907+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:33:14.940+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:33:14.964+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:14.964+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:33:14.982+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:14.982+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:33:15.022+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.152 seconds
+[2024-07-04T11:33:45.336+0530] {processor.py:161} INFO - Started process (PID=84237) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:33:45.340+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:33:45.342+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:45.341+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:33:45.356+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:33:45.383+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:45.383+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:33:45.410+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:45.409+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:33:45.447+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.120 seconds
+[2024-07-04T11:34:15.823+0530] {processor.py:161} INFO - Started process (PID=84280) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:34:15.825+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:34:15.826+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:15.826+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:34:15.840+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:34:15.860+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:15.860+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:34:15.880+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:15.880+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:34:15.909+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.103 seconds
+[2024-07-04T11:34:46.271+0530] {processor.py:161} INFO - Started process (PID=84312) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:34:46.276+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:34:46.277+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:46.276+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:34:46.291+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:34:46.310+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:46.310+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:34:46.328+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:46.328+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:34:46.358+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.098 seconds
+[2024-07-04T11:35:16.682+0530] {processor.py:161} INFO - Started process (PID=84348) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:35:16.687+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:35:16.688+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:16.688+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:35:16.701+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:35:16.728+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:16.728+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:35:16.752+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:16.752+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:35:16.779+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.106 seconds
+[2024-07-04T11:35:47.439+0530] {processor.py:161} INFO - Started process (PID=84404) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:35:47.445+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:35:47.447+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:47.446+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:35:47.462+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:35:47.489+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:47.488+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:35:47.516+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:47.516+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:35:47.545+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.120 seconds
+[2024-07-04T11:36:17.934+0530] {processor.py:161} INFO - Started process (PID=84439) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:36:17.934+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:36:17.936+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:17.935+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:36:17.946+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:36:17.966+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:17.965+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:36:17.983+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:17.983+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:36:18.015+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.095 seconds
+[2024-07-04T11:36:48.459+0530] {processor.py:161} INFO - Started process (PID=84477) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:36:48.464+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:36:48.465+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:48.465+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:36:48.477+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:36:48.497+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:48.497+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:36:48.514+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:48.514+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:36:48.544+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.102 seconds
+[2024-07-04T11:37:18.810+0530] {processor.py:161} INFO - Started process (PID=84532) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:37:18.814+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:37:18.819+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:18.817+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:37:18.876+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:37:18.914+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:18.914+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:37:18.932+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:18.932+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:37:18.971+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.187 seconds
+[2024-07-04T11:37:49.344+0530] {processor.py:161} INFO - Started process (PID=84579) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:37:49.344+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:37:49.345+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:49.345+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:37:49.356+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:37:49.376+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:49.376+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:37:49.393+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:49.393+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:37:49.420+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.082 seconds
+[2024-07-04T11:38:19.805+0530] {processor.py:161} INFO - Started process (PID=84685) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:38:19.810+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:38:19.811+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:19.810+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:38:19.823+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:38:19.846+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:19.845+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:38:19.863+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:19.863+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:38:19.904+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.108 seconds
+[2024-07-04T11:38:50.224+0530] {processor.py:161} INFO - Started process (PID=84871) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:38:50.229+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:38:50.230+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:50.230+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:38:50.245+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:38:50.275+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:50.275+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:38:50.302+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:50.301+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:38:50.338+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.123 seconds
+[2024-07-04T11:39:20.549+0530] {processor.py:161} INFO - Started process (PID=85616) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:39:20.555+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:39:20.563+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:20.560+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:39:20.607+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:39:20.647+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:20.647+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:39:20.673+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:20.673+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:39:20.712+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.188 seconds
+[2024-07-04T11:39:50.854+0530] {processor.py:161} INFO - Started process (PID=85693) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:39:50.856+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:39:50.858+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:50.857+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:39:50.877+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:39:50.906+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:50.906+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:39:50.925+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:50.925+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:39:50.956+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.114 seconds
+[2024-07-04T11:40:21.215+0530] {processor.py:161} INFO - Started process (PID=85776) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:40:21.219+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:40:21.221+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:21.220+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:40:21.234+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:40:21.257+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:21.257+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:40:21.276+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:21.276+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:40:21.302+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.093 seconds
+[2024-07-04T11:40:51.469+0530] {processor.py:161} INFO - Started process (PID=85883) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:40:51.474+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:40:51.475+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:51.475+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:40:51.488+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:40:51.510+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:51.509+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:40:51.530+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:51.530+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:40:51.556+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.106 seconds
+[2024-07-04T11:41:21.776+0530] {processor.py:161} INFO - Started process (PID=86059) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:41:21.778+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:41:21.779+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:21.779+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:41:21.791+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:41:21.811+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:21.810+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:41:21.832+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:21.832+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:41:21.873+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.110 seconds
+[2024-07-04T11:41:52.024+0530] {processor.py:161} INFO - Started process (PID=86135) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:41:52.029+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:41:52.031+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:52.030+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:41:52.045+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:41:52.066+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:52.066+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:41:52.085+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:52.085+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:41:52.114+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.110 seconds
+[2024-07-04T11:42:22.353+0530] {processor.py:161} INFO - Started process (PID=86168) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:42:22.354+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py for tasks to queue
+[2024-07-04T11:42:22.356+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:42:22.355+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:42:22.369+0530] {processor.py:840} INFO - DAG(s) 'producer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py
+[2024-07-04T11:42:22.390+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:42:22.390+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:42:22.410+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:42:22.410+0530] {dag.py:3954} INFO - Setting next_dagrun for producer_v1 to 2024-07-04 00:00:00+00:00, run_after=2024-07-05 00:00:00+00:00
+[2024-07-04T11:42:22.452+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py took 0.113 seconds

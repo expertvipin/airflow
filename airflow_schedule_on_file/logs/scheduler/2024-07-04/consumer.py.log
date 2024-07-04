@@ -1,0 +1,470 @@
+[2024-07-04T11:16:01.821+0530] {processor.py:161} INFO - Started process (PID=82447) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:16:01.823+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:16:01.825+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:01.824+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:16:01.835+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:16:01.965+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:01.964+0530] {override.py:1829} INFO - Created Permission View: can read on DAG:consumer
+[2024-07-04T11:16:01.981+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:01.980+0530] {override.py:1829} INFO - Created Permission View: can delete on DAG:consumer
+[2024-07-04T11:16:01.991+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:01.991+0530] {override.py:1829} INFO - Created Permission View: can edit on DAG:consumer
+[2024-07-04T11:16:01.992+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:01.991+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:16:02.004+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:02.004+0530] {dag.py:3118} INFO - Creating ORM DAG for consumer
+[2024-07-04T11:16:02.014+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:02.014+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:16:02.038+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.225 seconds
+[2024-07-04T11:16:32.977+0530] {processor.py:161} INFO - Started process (PID=82493) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:16:32.984+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:16:32.991+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:32.990+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:16:33.023+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:16:33.058+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:33.058+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:16:33.077+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:16:33.077+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:16:33.104+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.149 seconds
+[2024-07-04T11:17:03.238+0530] {processor.py:161} INFO - Started process (PID=82528) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:17:03.240+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:17:03.243+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:03.242+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:17:03.252+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:17:03.272+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:03.272+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:17:03.288+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:03.288+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:17:03.319+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.098 seconds
+[2024-07-04T11:17:33.734+0530] {processor.py:161} INFO - Started process (PID=82573) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:17:33.739+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:17:33.743+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:33.742+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:17:33.755+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:17:33.784+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:33.784+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:17:33.804+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:17:33.804+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:17:33.844+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.129 seconds
+[2024-07-04T11:18:04.001+0530] {processor.py:161} INFO - Started process (PID=82612) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:18:04.006+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:18:04.009+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:04.009+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:18:04.019+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:18:04.042+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:04.042+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:18:04.058+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:04.058+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:18:04.083+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.090 seconds
+[2024-07-04T11:18:34.203+0530] {processor.py:161} INFO - Started process (PID=82667) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:18:34.208+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:18:34.209+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:34.209+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:18:34.216+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:18:34.236+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:34.236+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:18:34.254+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:18:34.253+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:18:34.283+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.093 seconds
+[2024-07-04T11:19:04.761+0530] {processor.py:161} INFO - Started process (PID=82706) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:04.765+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:19:04.773+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:04.771+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:04.799+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:04.852+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:04.851+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:04.884+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:04.884+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:19:04.942+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.216 seconds
+[2024-07-04T11:19:23.745+0530] {processor.py:161} INFO - Started process (PID=82727) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:23.754+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:19:23.761+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:23.759+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:23.788+0530] {processor.py:840} INFO - DAG(s) 'consumer' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:23.920+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:23.920+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:23.935+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:23.935+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer to None, run_after=None
+[2024-07-04T11:19:23.962+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.242 seconds
+[2024-07-04T11:19:27.260+0530] {processor.py:161} INFO - Started process (PID=82732) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:27.263+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:19:27.268+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.267+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:27.295+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:27.411+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.411+0530] {override.py:1829} INFO - Created Permission View: can read on DAG:consumer_v1
+[2024-07-04T11:19:27.421+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.421+0530] {override.py:1829} INFO - Created Permission View: can delete on DAG:consumer_v1
+[2024-07-04T11:19:27.429+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.428+0530] {override.py:1829} INFO - Created Permission View: can edit on DAG:consumer_v1
+[2024-07-04T11:19:27.429+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.429+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:27.438+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.438+0530] {dag.py:3118} INFO - Creating ORM DAG for consumer_v1
+[2024-07-04T11:19:27.446+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:27.446+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:19:27.467+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.234 seconds
+[2024-07-04T11:19:57.728+0530] {processor.py:161} INFO - Started process (PID=82793) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:57.732+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:19:57.739+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:57.738+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:57.758+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:19:57.792+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:57.792+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:19:57.819+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:19:57.818+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:19:57.862+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.167 seconds
+[2024-07-04T11:20:28.111+0530] {processor.py:161} INFO - Started process (PID=82836) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:20:28.116+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:20:28.118+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:28.118+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:20:28.129+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:20:28.154+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:28.154+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:20:28.180+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:28.179+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:20:28.210+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.111 seconds
+[2024-07-04T11:20:58.523+0530] {processor.py:161} INFO - Started process (PID=82876) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:20:58.527+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:20:58.538+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:58.537+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:20:58.555+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:20:58.589+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:58.588+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:20:58.611+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:20:58.611+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:20:58.641+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.155 seconds
+[2024-07-04T11:21:28.846+0530] {processor.py:161} INFO - Started process (PID=82924) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:21:28.851+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:21:28.853+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:28.852+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:21:28.865+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:21:28.894+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:28.894+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:21:28.914+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:28.914+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:21:28.947+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.115 seconds
+[2024-07-04T11:21:59.275+0530] {processor.py:161} INFO - Started process (PID=82961) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:21:59.275+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:21:59.277+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:59.276+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:21:59.286+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:21:59.312+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:59.312+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:21:59.336+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:21:59.335+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:21:59.374+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.109 seconds
+[2024-07-04T11:22:29.726+0530] {processor.py:161} INFO - Started process (PID=83009) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:22:29.734+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:22:29.738+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:29.737+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:22:29.765+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:22:29.797+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:29.797+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:22:29.817+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:22:29.817+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:22:29.852+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.154 seconds
+[2024-07-04T11:23:00.125+0530] {processor.py:161} INFO - Started process (PID=83190) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:23:00.126+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:23:00.127+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:00.127+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:23:00.134+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:23:00.158+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:00.157+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:00.179+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:00.179+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:23:00.217+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.097 seconds
+[2024-07-04T11:23:30.416+0530] {processor.py:161} INFO - Started process (PID=83259) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:23:30.420+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:23:30.422+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:30.421+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:23:30.433+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:23:30.463+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:30.463+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:23:30.490+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:23:30.490+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:23:30.525+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.118 seconds
+[2024-07-04T11:24:00.896+0530] {processor.py:161} INFO - Started process (PID=83307) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:24:00.897+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:24:00.899+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:00.898+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:24:00.907+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:24:00.929+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:00.929+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:00.946+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:00.946+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:24:00.972+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.082 seconds
+[2024-07-04T11:24:31.096+0530] {processor.py:161} INFO - Started process (PID=83357) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:24:31.101+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:24:31.103+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:31.102+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:24:31.110+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:24:31.141+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:31.140+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:24:31.158+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:24:31.158+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:24:31.187+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.098 seconds
+[2024-07-04T11:25:01.783+0530] {processor.py:161} INFO - Started process (PID=83431) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:01.785+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:01.787+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:01.786+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:01.797+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:01.830+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:01.830+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:01.853+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:01.853+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:01.883+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.108 seconds
+[2024-07-04T11:25:32.821+0530] {processor.py:161} INFO - Started process (PID=83477) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:32.825+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:32.829+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:32.827+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:32.850+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:32.875+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:32.875+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:32.892+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:32.891+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:32.934+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.135 seconds
+[2024-07-04T11:25:41.228+0530] {processor.py:161} INFO - Started process (PID=83492) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:41.233+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:41.233+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:41.233+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:41.244+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:41.268+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:41.268+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:41.294+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:41.293+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:41.320+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.099 seconds
+[2024-07-04T11:25:44.694+0530] {processor.py:161} INFO - Started process (PID=83496) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:44.695+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:44.697+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:44.696+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:44.705+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:44.729+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:44.729+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:44.762+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:44.761+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:44.803+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.115 seconds
+[2024-07-04T11:25:46.003+0530] {processor.py:161} INFO - Started process (PID=83501) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:46.006+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:46.013+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:46.009+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:46.049+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:46.089+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:46.088+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:46.106+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:46.105+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:46.137+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.159 seconds
+[2024-07-04T11:25:48.252+0530] {processor.py:161} INFO - Started process (PID=83505) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:48.254+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:48.258+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:48.256+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:48.278+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:48.316+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:48.316+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:48.345+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:48.345+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:48.396+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.175 seconds
+[2024-07-04T11:25:49.497+0530] {processor.py:161} INFO - Started process (PID=83517) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:49.498+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:49.499+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:49.498+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:49.509+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:49.543+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:49.542+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:49.575+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:49.574+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:49.624+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.137 seconds
+[2024-07-04T11:25:52.921+0530] {processor.py:161} INFO - Started process (PID=83525) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:52.922+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:25:52.923+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:52.923+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:52.933+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:25:52.956+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:52.956+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:25:52.973+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:25:52.973+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:25:53.005+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.095 seconds
+[2024-07-04T11:26:23.135+0530] {processor.py:161} INFO - Started process (PID=83584) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:26:23.141+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:26:23.145+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:23.143+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:26:23.163+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:26:23.187+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:23.187+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:26:23.204+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:23.203+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:26:23.301+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.172 seconds
+[2024-07-04T11:26:53.778+0530] {processor.py:161} INFO - Started process (PID=83671) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:26:53.785+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:26:53.791+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:53.790+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:26:53.805+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:26:53.831+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:53.830+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:26:53.851+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:26:53.851+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:26:53.977+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.220 seconds
+[2024-07-04T11:27:00.740+0530] {processor.py:161} INFO - Started process (PID=83689) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:00.744+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:00.749+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:00.749+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:00.761+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:00.800+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:00.800+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:00.836+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:00.836+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:01.010+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.279 seconds
+[2024-07-04T11:27:03.720+0530] {processor.py:161} INFO - Started process (PID=83695) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:03.721+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:03.722+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:03.722+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:03.730+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:03.758+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:03.757+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:03.891+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:03.891+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:03.929+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.214 seconds
+[2024-07-04T11:27:06.908+0530] {processor.py:161} INFO - Started process (PID=83706) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:06.909+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:06.910+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:06.910+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:06.919+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:06.940+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:06.940+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:07.036+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:07.036+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:07.059+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.160 seconds
+[2024-07-04T11:27:14.173+0530] {processor.py:161} INFO - Started process (PID=83713) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:14.174+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:14.176+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:14.176+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:14.188+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:14.221+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:14.221+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:14.364+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:14.364+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:14.418+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.254 seconds
+[2024-07-04T11:27:18.087+0530] {processor.py:161} INFO - Started process (PID=83726) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:18.090+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:18.094+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:18.092+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:18.118+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:18.150+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:18.150+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:18.261+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:18.261+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:18.301+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.233 seconds
+[2024-07-04T11:27:23.206+0530] {processor.py:161} INFO - Started process (PID=83731) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:23.207+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:23.209+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:23.208+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:23.219+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:23.243+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:23.243+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:23.338+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:23.338+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:23.362+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.165 seconds
+[2024-07-04T11:27:27.231+0530] {processor.py:161} INFO - Started process (PID=83746) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:27.232+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:27.233+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:27.233+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:27.242+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:27.262+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:27.262+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:27.359+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:27.358+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:27.386+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.164 seconds
+[2024-07-04T11:27:57.814+0530] {processor.py:161} INFO - Started process (PID=83785) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:57.820+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:27:57.822+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:57.821+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:57.839+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:27:57.874+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:57.874+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:27:57.976+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:27:57.976+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:27:58.015+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.216 seconds
+[2024-07-04T11:28:28.203+0530] {processor.py:161} INFO - Started process (PID=83821) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:28:28.206+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:28:28.211+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:28.210+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:28:28.220+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:28:28.326+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:28.325+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:28:28.341+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:28.341+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:28:28.363+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.176 seconds
+[2024-07-04T11:28:58.673+0530] {processor.py:161} INFO - Started process (PID=83869) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:28:58.679+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:28:58.681+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:58.680+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:28:58.692+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:28:58.815+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:58.815+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:28:58.833+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:28:58.833+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:28:58.861+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.201 seconds
+[2024-07-04T11:29:29.130+0530] {processor.py:161} INFO - Started process (PID=83910) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:29:29.137+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:29:29.142+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:29.140+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:29:29.159+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:29:29.276+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:29.275+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:29:29.292+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:29.292+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:29:29.333+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.215 seconds
+[2024-07-04T11:29:59.815+0530] {processor.py:161} INFO - Started process (PID=83942) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:29:59.816+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:29:59.818+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:59.817+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:29:59.830+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:29:59.857+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:59.857+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:29:59.880+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:29:59.879+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:29:59.913+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.111 seconds
+[2024-07-04T11:30:30.164+0530] {processor.py:161} INFO - Started process (PID=83982) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:30:30.165+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:30:30.167+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:30.166+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:30:30.177+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:30:30.199+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:30.199+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:30:30.216+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:30:30.216+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:30:30.251+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.098 seconds
+[2024-07-04T11:31:00.483+0530] {processor.py:161} INFO - Started process (PID=84030) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:31:00.485+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:31:00.489+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:00.487+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:31:00.516+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:31:00.565+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:00.564+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:31:00.589+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:00.588+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:31:00.618+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.141 seconds
+[2024-07-04T11:31:30.877+0530] {processor.py:161} INFO - Started process (PID=84065) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:31:30.878+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:31:30.880+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:30.879+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:31:30.890+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:31:30.911+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:30.911+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:31:30.928+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:31:30.928+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:31:30.957+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.100 seconds
+[2024-07-04T11:32:01.213+0530] {processor.py:161} INFO - Started process (PID=84108) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:32:01.220+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:32:01.223+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:01.222+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:32:01.256+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:32:01.289+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:01.289+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:32:01.307+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:01.307+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:32:01.339+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.146 seconds
+[2024-07-04T11:32:31.605+0530] {processor.py:161} INFO - Started process (PID=84147) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:32:31.608+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:32:31.611+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:31.610+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:32:31.633+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:32:31.664+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:31.664+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:32:31.682+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:32:31.682+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:32:31.724+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.148 seconds
+[2024-07-04T11:33:02.357+0530] {processor.py:161} INFO - Started process (PID=84196) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:33:02.359+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:33:02.361+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:02.360+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:33:02.373+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:33:02.404+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:02.404+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:33:02.424+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:02.424+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:33:02.455+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.115 seconds
+[2024-07-04T11:33:32.690+0530] {processor.py:161} INFO - Started process (PID=84228) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:33:32.695+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:33:32.697+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:32.696+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:33:32.707+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:33:32.729+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:32.729+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:33:32.745+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:33:32.745+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:33:32.780+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.116 seconds
+[2024-07-04T11:34:02.980+0530] {processor.py:161} INFO - Started process (PID=84262) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:34:02.985+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:34:02.986+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:02.985+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:34:02.994+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:34:03.015+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:03.015+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:34:03.032+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:03.032+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:34:03.071+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.108 seconds
+[2024-07-04T11:34:33.227+0530] {processor.py:161} INFO - Started process (PID=84302) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:34:33.232+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:34:33.234+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:33.233+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:34:33.242+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:34:33.263+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:33.263+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:34:33.279+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:34:33.279+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:34:33.303+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.091 seconds
+[2024-07-04T11:35:03.417+0530] {processor.py:161} INFO - Started process (PID=84337) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:35:03.421+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:35:03.422+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:03.422+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:35:03.430+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:35:03.451+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:03.451+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:35:03.468+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:03.468+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:35:03.496+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.086 seconds
+[2024-07-04T11:35:33.671+0530] {processor.py:161} INFO - Started process (PID=84393) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:35:33.689+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:35:33.690+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:33.690+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:35:33.700+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:35:33.723+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:33.723+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:35:33.741+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:35:33.740+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:35:33.782+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.127 seconds
+[2024-07-04T11:36:03.991+0530] {processor.py:161} INFO - Started process (PID=84428) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:36:03.993+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:36:03.994+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:03.994+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:36:04.005+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:36:04.026+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:04.026+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:36:04.043+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:04.043+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:36:04.079+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.107 seconds
+[2024-07-04T11:36:34.316+0530] {processor.py:161} INFO - Started process (PID=84464) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:36:34.321+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:36:34.323+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:34.322+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:36:34.331+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:36:34.352+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:34.352+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:36:34.371+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:36:34.371+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:36:34.406+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.109 seconds
+[2024-07-04T11:37:04.650+0530] {processor.py:161} INFO - Started process (PID=84509) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:04.652+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:37:04.653+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:04.652+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:04.665+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:04.704+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:04.704+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:37:04.731+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:04.731+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:37:04.771+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.133 seconds
+[2024-07-04T11:37:11.898+0530] {processor.py:161} INFO - Started process (PID=84524) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:11.905+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:37:11.908+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:11.907+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:11.939+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:11.993+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:11.993+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:37:12.014+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:12.013+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:37:12.039+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.164 seconds
+[2024-07-04T11:37:41.325+0530] {processor.py:161} INFO - Started process (PID=84565) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:41.331+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:37:41.337+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:41.336+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:41.351+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:37:41.376+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:41.376+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:37:41.392+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:37:41.392+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:37:41.439+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.133 seconds
+[2024-07-04T11:38:11.776+0530] {processor.py:161} INFO - Started process (PID=84672) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:38:11.778+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:38:11.780+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:11.779+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:38:11.790+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:38:11.812+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:11.812+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:38:11.832+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:11.831+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:38:11.864+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.107 seconds
+[2024-07-04T11:38:42.249+0530] {processor.py:161} INFO - Started process (PID=84772) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:38:42.254+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:38:42.255+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:42.254+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:38:42.263+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:38:42.284+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:42.284+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:38:42.300+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:38:42.300+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:38:42.335+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.100 seconds
+[2024-07-04T11:39:12.666+0530] {processor.py:161} INFO - Started process (PID=85554) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:39:12.667+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:39:12.669+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:12.668+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:39:12.679+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:39:12.700+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:12.700+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:39:12.717+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:12.717+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:39:12.751+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.102 seconds
+[2024-07-04T11:39:43.128+0530] {processor.py:161} INFO - Started process (PID=85677) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:39:43.135+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:39:43.140+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:43.138+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:39:43.165+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:39:43.201+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:43.200+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:39:43.224+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:39:43.224+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:39:43.254+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.155 seconds
+[2024-07-04T11:40:13.706+0530] {processor.py:161} INFO - Started process (PID=85740) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:40:13.712+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:40:13.714+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:13.713+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:40:13.726+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:40:13.749+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:13.749+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:40:13.766+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:13.766+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:40:13.804+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.118 seconds
+[2024-07-04T11:40:44.059+0530] {processor.py:161} INFO - Started process (PID=85873) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:40:44.068+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:40:44.071+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:44.070+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:40:44.091+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:40:44.119+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:44.119+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:40:44.137+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:40:44.137+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:40:44.164+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.129 seconds
+[2024-07-04T11:41:14.569+0530] {processor.py:161} INFO - Started process (PID=85975) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:41:14.575+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:41:14.578+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:14.577+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:41:14.595+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:41:14.632+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:14.632+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:41:14.651+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:14.651+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:41:14.684+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.131 seconds
+[2024-07-04T11:41:45.006+0530] {processor.py:161} INFO - Started process (PID=86128) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:41:45.011+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:41:45.012+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:45.012+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:41:45.020+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:41:45.042+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:45.042+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:41:45.060+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:41:45.060+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:41:45.099+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.102 seconds
+[2024-07-04T11:42:15.808+0530] {processor.py:161} INFO - Started process (PID=86163) to work on /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:42:15.810+0530] {processor.py:830} INFO - Processing file /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py for tasks to queue
+[2024-07-04T11:42:15.812+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:42:15.811+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:42:15.822+0530] {processor.py:840} INFO - DAG(s) 'consumer_v1' retrieved from /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py
+[2024-07-04T11:42:15.849+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:42:15.848+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-07-04T11:42:15.873+0530] {logging_mixin.py:188} INFO - [2024-07-04T11:42:15.872+0530] {dag.py:3954} INFO - Setting next_dagrun for consumer_v1 to None, run_after=None
+[2024-07-04T11:42:15.915+0530] {processor.py:183} INFO - Processing /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py took 0.124 seconds

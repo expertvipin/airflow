@@ -1,0 +1,493 @@
+[2024-07-04T11:16:01.745+0530] {manager.py:470} INFO - Processing files using up to 1 processes at a time 
+[2024-07-04T11:16:01.746+0530] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2024-07-04T11:16:01.747+0530] {manager.py:472} INFO - Checking for new files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags every 300 seconds
+[2024-07-04T11:16:01.747+0530] {manager.py:737} INFO - Searching for files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:16:01.748+0530] {manager.py:740} INFO - There are 2 files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:16:02.124+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.31s           2024-07-04T05:46:02
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           0           0
+================================================================================
+[2024-07-04T11:16:33.141+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.30s           2024-07-04T05:46:03
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:46:33
+================================================================================
+[2024-07-04T11:17:03.417+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:46:34
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:47:03
+================================================================================
+[2024-07-04T11:17:33.905+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T05:47:33
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.11s           2024-07-04T05:47:04
+================================================================================
+[2024-07-04T11:18:04.091+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:47:34
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.10s           2024-07-04T05:48:04
+================================================================================
+[2024-07-04T11:18:34.385+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:48:34
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.20s           2024-07-04T05:48:05
+================================================================================
+[2024-07-04T11:19:05.012+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.31s           2024-07-04T05:49:05
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:48:35
+================================================================================
+[2024-07-04T11:19:36.089+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.31s           2024-07-04T05:49:27
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.11s           2024-07-04T05:49:07
+================================================================================
+[2024-07-04T11:20:06.399+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.41s           2024-07-04T05:49:41
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T05:49:57
+================================================================================
+[2024-07-04T11:20:36.827+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T05:50:28
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.20s           2024-07-04T05:50:12
+================================================================================
+[2024-07-04T11:21:01.765+0530] {manager.py:737} INFO - Searching for files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:21:01.777+0530] {manager.py:740} INFO - There are 2 files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:21:07.408+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T05:50:58
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T05:50:43
+================================================================================
+[2024-07-04T11:21:37.969+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T05:51:29
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T05:51:13
+================================================================================
+[2024-07-04T11:22:08.468+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:51:44
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:51:59
+================================================================================
+[2024-07-04T11:22:39.055+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:52:29
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:52:14
+================================================================================
+[2024-07-04T11:23:10.113+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.32s           2024-07-04T05:53:10
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.11s           2024-07-04T05:53:00
+================================================================================
+[2024-07-04T11:23:42.711+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:53:19
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.20s           2024-07-04T05:53:30
+================================================================================
+[2024-07-04T11:24:12.783+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.31s           2024-07-04T05:53:50
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.10s           2024-07-04T05:54:00
+================================================================================
+[2024-07-04T11:24:43.135+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:54:31
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:54:43
+================================================================================
+[2024-07-04T11:25:13.310+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:55:04
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.20s           2024-07-04T05:55:01
+================================================================================
+[2024-07-04T11:25:43.515+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.20s           2024-07-04T05:55:35
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.20s           2024-07-04T05:55:41
+================================================================================
+[2024-07-04T11:26:01.840+0530] {manager.py:737} INFO - Searching for files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:26:01.849+0530] {manager.py:740} INFO - There are 2 files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:26:13.691+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:56:06
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:55:53
+================================================================================
+[2024-07-04T11:26:43.829+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:56:23
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T05:56:36
+================================================================================
+[2024-07-04T11:27:13.938+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.31s           2024-07-04T05:57:08
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T05:57:07
+================================================================================
+[2024-07-04T11:27:44.128+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.31s           2024-07-04T05:57:39
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:57:27
+================================================================================
+[2024-07-04T11:28:14.141+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.32s           2024-07-04T05:57:58
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.31s           2024-07-04T05:58:10
+================================================================================
+[2024-07-04T11:28:44.382+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.31s           2024-07-04T05:58:40
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:58:28
+================================================================================
+[2024-07-04T11:29:14.532+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.32s           2024-07-04T05:59:11
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.32s           2024-07-04T05:58:58
+================================================================================
+[2024-07-04T11:29:44.662+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.31s           2024-07-04T05:59:41
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.31s           2024-07-04T05:59:29
+================================================================================
+[2024-07-04T11:30:15.050+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:00:12
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T05:59:59
+================================================================================
+[2024-07-04T11:30:45.417+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:00:42
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:00:30
+================================================================================
+[2024-07-04T11:31:01.917+0530] {manager.py:737} INFO - Searching for files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:31:01.925+0530] {manager.py:740} INFO - There are 2 files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:31:15.736+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:01:13
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.20s           2024-07-04T06:01:00
+================================================================================
+[2024-07-04T11:31:46.104+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:01:43
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:01:31
+================================================================================
+[2024-07-04T11:32:16.333+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:02:14
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:02:01
+================================================================================
+[2024-07-04T11:32:47.294+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:02:44
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:02:31
+================================================================================
+[2024-07-04T11:33:17.576+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T06:03:02
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:03:15
+================================================================================
+[2024-07-04T11:33:47.592+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:03:32
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:03:45
+================================================================================
+[2024-07-04T11:34:18.131+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:04:15
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:04:03
+================================================================================
+[2024-07-04T11:34:48.350+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:04:46
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.12s           2024-07-04T06:04:33
+================================================================================
+[2024-07-04T11:35:18.550+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:05:16
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.10s           2024-07-04T06:05:03
+================================================================================
+[2024-07-04T11:35:48.886+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:05:47
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:05:33
+================================================================================
+[2024-07-04T11:36:01.990+0530] {manager.py:737} INFO - Searching for files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:36:01.999+0530] {manager.py:740} INFO - There are 2 files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:36:19.219+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:06:18
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:06:04
+================================================================================
+[2024-07-04T11:36:49.227+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:06:48
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:06:34
+================================================================================
+[2024-07-04T11:37:19.886+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:07:18
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.22s           2024-07-04T06:07:12
+================================================================================
+[2024-07-04T11:37:50.028+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:07:41
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.10s           2024-07-04T06:07:49
+================================================================================
+[2024-07-04T11:38:20.187+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:08:19
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:08:11
+================================================================================
+[2024-07-04T11:38:50.413+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:08:42
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.20s           2024-07-04T06:08:50
+================================================================================
+[2024-07-04T11:39:20.720+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:09:20
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:09:12
+================================================================================
+[2024-07-04T11:39:51.042+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:09:43
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:09:51
+================================================================================
+[2024-07-04T11:40:21.309+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:10:13
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.10s           2024-07-04T06:10:21
+================================================================================
+[2024-07-04T11:40:51.640+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:10:51
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:10:44
+================================================================================
+[2024-07-04T11:41:02.061+0530] {manager.py:737} INFO - Searching for files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:41:02.063+0530] {manager.py:740} INFO - There are 2 files in /home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags
+[2024-07-04T11:41:21.958+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:11:21
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:11:14
+================================================================================
+[2024-07-04T11:41:52.190+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.22s           2024-07-04T06:11:52
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:11:45
+================================================================================
+[2024-07-04T11:42:22.528+0530] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/consumer.py                           1           0  0.21s           2024-07-04T06:12:15
+/home/ongraph/Desktop/airflow/airflow_schedule_on_file/dags/producer.py                           1           0  0.21s           2024-07-04T06:12:22
+================================================================================
+[2024-07-04T11:42:45.556+0530] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15

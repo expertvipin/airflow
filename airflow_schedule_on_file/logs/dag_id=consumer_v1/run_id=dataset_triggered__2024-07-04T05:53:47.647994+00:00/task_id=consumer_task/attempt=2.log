@@ -1,0 +1,17 @@
+[2024-07-04T11:32:28.639+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-04T11:32:28.654+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: consumer_v1.consumer_task dataset_triggered__2024-07-04T05:53:47.647994+00:00 [queued]>
+[2024-07-04T11:32:28.661+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: consumer_v1.consumer_task dataset_triggered__2024-07-04T05:53:47.647994+00:00 [queued]>
+[2024-07-04T11:32:28.661+0530] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2024-07-04T11:32:28.673+0530] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): consumer_task> on 2024-07-04 05:53:47.647994+00:00
+[2024-07-04T11:32:28.677+0530] {standard_task_runner.py:63} INFO - Started process 84141 to run task
+[2024-07-04T11:32:28.681+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'consumer_v1', 'consumer_task', 'dataset_triggered__2024-07-04T05:53:47.647994+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/consumer.py', '--cfg-path', '/tmp/tmp5_eek1pj']
+[2024-07-04T11:32:28.683+0530] {standard_task_runner.py:91} INFO - Job 13: Subtask consumer_task
+[2024-07-04T11:32:28.718+0530] {task_command.py:426} INFO - Running <TaskInstance: consumer_v1.consumer_task dataset_triggered__2024-07-04T05:53:47.647994+00:00 [running]> on host ongraph-Lenovo-V130-14IKB
+[2024-07-04T11:32:28.767+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='consumer_v1' AIRFLOW_CTX_TASK_ID='consumer_task' AIRFLOW_CTX_EXECUTION_DATE='2024-07-04T05:53:47.647994+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='dataset_triggered__2024-07-04T05:53:47.647994+00:00'
+[2024-07-04T11:32:28.768+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-04T11:32:28.768+0530] {python.py:237} INFO - Done. Returned value was: None
+[2024-07-04T11:32:28.769+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-04T11:32:28.772+0530] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=consumer_v1, task_id=consumer_task, run_id=dataset_triggered__2024-07-04T05:53:47.647994+00:00, execution_date=20240704T055347, start_date=20240704T060228, end_date=20240704T060228
+[2024-07-04T11:32:28.813+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-07-04T11:32:28.826+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-04T11:32:28.826+0530] {local_task_job_runner.py:222} INFO - ::endgroup::

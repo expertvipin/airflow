@@ -1,0 +1,17 @@
+[2024-07-04T11:19:53.621+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-04T11:19:53.635+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: producer_v1.producer_task scheduled__2024-07-03T00:00:00+00:00 [queued]>
+[2024-07-04T11:19:53.641+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: producer_v1.producer_task scheduled__2024-07-03T00:00:00+00:00 [queued]>
+[2024-07-04T11:19:53.641+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-07-04T11:19:53.653+0530] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): producer_task> on 2024-07-03 00:00:00+00:00
+[2024-07-04T11:19:53.656+0530] {standard_task_runner.py:63} INFO - Started process 82787 to run task
+[2024-07-04T11:19:53.659+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'producer_v1', 'producer_task', 'scheduled__2024-07-03T00:00:00+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/producer.py', '--cfg-path', '/tmp/tmp7sv0y5t8']
+[2024-07-04T11:19:53.660+0530] {standard_task_runner.py:91} INFO - Job 7: Subtask producer_task
+[2024-07-04T11:19:53.698+0530] {task_command.py:426} INFO - Running <TaskInstance: producer_v1.producer_task scheduled__2024-07-03T00:00:00+00:00 [running]> on host ongraph-Lenovo-V130-14IKB
+[2024-07-04T11:19:53.756+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='producer_v1' AIRFLOW_CTX_TASK_ID='producer_task' AIRFLOW_CTX_EXECUTION_DATE='2024-07-03T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-07-03T00:00:00+00:00'
+[2024-07-04T11:19:53.757+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-04T11:19:53.758+0530] {python.py:237} INFO - Done. Returned value was: None
+[2024-07-04T11:19:53.758+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-04T11:19:53.763+0530] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=producer_v1, task_id=producer_task, run_id=scheduled__2024-07-03T00:00:00+00:00, execution_date=20240703T000000, start_date=20240704T054953, end_date=20240704T054953
+[2024-07-04T11:19:53.791+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-07-04T11:19:53.802+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-04T11:19:53.803+0530] {local_task_job_runner.py:222} INFO - ::endgroup::
