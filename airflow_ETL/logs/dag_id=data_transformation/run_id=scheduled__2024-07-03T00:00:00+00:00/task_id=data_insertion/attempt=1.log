@@ -1,0 +1,40 @@
+[2024-07-04T13:22:50.630+0530] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-04T13:22:50.644+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_transformation.data_insertion scheduled__2024-07-03T00:00:00+00:00 [queued]>
+[2024-07-04T13:22:50.651+0530] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_transformation.data_insertion scheduled__2024-07-03T00:00:00+00:00 [queued]>
+[2024-07-04T13:22:50.651+0530] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-07-04T13:22:50.666+0530] {taskinstance.py:2330} INFO - Executing <Task(SqliteOperator): data_insertion> on 2024-07-03 00:00:00+00:00
+[2024-07-04T13:22:50.669+0530] {standard_task_runner.py:63} INFO - Started process 95348 to run task
+[2024-07-04T13:22:50.672+0530] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_transformation', 'data_insertion', 'scheduled__2024-07-03T00:00:00+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmp_huse476']
+[2024-07-04T13:22:50.674+0530] {standard_task_runner.py:91} INFO - Job 11: Subtask data_insertion
+[2024-07-04T13:22:50.714+0530] {task_command.py:426} INFO - Running <TaskInstance: data_transformation.data_insertion scheduled__2024-07-03T00:00:00+00:00 [running]> on host ongraph-Lenovo-V130-14IKB
+[2024-07-04T13:22:50.798+0530] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='rohit' AIRFLOW_CTX_DAG_ID='data_transformation' AIRFLOW_CTX_TASK_ID='data_insertion' AIRFLOW_CTX_EXECUTION_DATE='2024-07-03T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-07-03T00:00:00+00:00'
+[2024-07-04T13:22:50.799+0530] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-04T13:22:50.811+0530] {sql.py:276} INFO - Executing: 
+                INSERT INTO newspaper_data (lccn, url, state, title) VALUES  None;
+            
+[2024-07-04T13:22:50.816+0530] {base.py:84} INFO - Using connection ID 'db_connection' for task execution.
+[2024-07-04T13:22:50.847+0530] {base.py:84} INFO - Using connection ID 'db_connection' for task execution.
+[2024-07-04T13:22:50.848+0530] {sql.py:487} INFO - Running statement: 
+                INSERT INTO newspaper_data (lccn, url, state, title) VALUES  None;
+            , parameters: None
+[2024-07-04T13:22:50.848+0530] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-04T13:22:50.848+0530] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ongraph/Desktop/airflow/airflow_ETL/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/ongraph/Desktop/airflow/airflow_ETL/venv/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/ongraph/Desktop/airflow/airflow_ETL/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ongraph/Desktop/airflow/airflow_ETL/venv/lib/python3.10/site-packages/airflow/providers/common/sql/operators/sql.py", line 282, in execute
+    output = hook.run(
+  File "/home/ongraph/Desktop/airflow/airflow_ETL/venv/lib/python3.10/site-packages/airflow/providers/common/sql/hooks/sql.py", line 435, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/ongraph/Desktop/airflow/airflow_ETL/venv/lib/python3.10/site-packages/airflow/providers/common/sql/hooks/sql.py", line 492, in _run_command
+    cur.execute(sql_statement)
+sqlite3.OperationalError: near "None": syntax error
+[2024-07-04T13:22:50.852+0530] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=data_transformation, task_id=data_insertion, run_id=scheduled__2024-07-03T00:00:00+00:00, execution_date=20240703T000000, start_date=20240704T075250, end_date=20240704T075250
+[2024-07-04T13:22:50.865+0530] {standard_task_runner.py:110} ERROR - Failed to execute job 11 for task data_insertion (near "None": syntax error; 95348)
+[2024-07-04T13:22:50.884+0530] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2024-07-04T13:22:50.897+0530] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-04T13:22:50.897+0530] {local_task_job_runner.py:222} INFO - ::endgroup::
